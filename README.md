@@ -1,1 +1,1 @@
-# springboot-purchase-sample-api
+# springboot3-purchase-sample-api
