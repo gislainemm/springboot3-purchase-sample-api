@@ -26,7 +26,7 @@ import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
 
 @RestController
-@Tag(name = "purchase", description = "Purchase APIs")
+@Tag(name = "purchase")
 @RequestMapping(value = "/purchase/transactions")	
 @Slf4j(topic = "PURCHASE_TRANSACTION_CONTROLLER")
 public class PurchaseTransactionController {
